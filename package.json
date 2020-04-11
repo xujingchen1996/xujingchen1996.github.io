@@ -6,9 +6,9 @@
     "homepage": "http://xujingchen1996.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/xujingchen1996.github.io"
+        "url": "https://github.com/xujingchen1996/xujingchen1996.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/xujingchen1996.github.io/issues",
+    "bugs": "https://github.com/xujingchen1996/xujingchen1996.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
