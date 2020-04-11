@@ -1,3 +1,4 @@
+## 以下为原作者教程（博客里已经把原作者有关内容删掉了，但还是非常感谢！）
 
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
