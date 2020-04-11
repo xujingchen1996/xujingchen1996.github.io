@@ -2,7 +2,7 @@
 title: Xiache-Blog
 SEOTitle: 夏澈的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1360181608@qq.com
 description: "Record my growth."
 keyword: "BY Blog, 夏澈的博客, c/c++, Student, daily record"
 url: "http://xc-bili.github.io"          # your host, for absolute URL
@@ -112,3 +112,5 @@ service-worker: true
 #         href: "https://developer.apple.com/"
 #     }
 # ]
+ gems:
+   [jeky11-paginate]
